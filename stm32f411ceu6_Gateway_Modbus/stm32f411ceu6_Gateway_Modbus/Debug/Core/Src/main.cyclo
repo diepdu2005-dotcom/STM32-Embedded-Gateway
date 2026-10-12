@@ -1,0 +1,9 @@
+../Core/Src/main.c:84:5:main	1
+../Core/Src/main.c:156:6:SystemClock_Config	3
+../Core/Src/main.c:202:6:W5500_Select	1
+../Core/Src/main.c:207:6:W5500_Unselect	1
+../Core/Src/main.c:212:6:W5500_WriteByte	1
+../Core/Src/main.c:217:9:W5500_ReadByte	1
+../Core/Src/main.c:225:6:W5500_Hardware_Init	1
+../Core/Src/main.c:250:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:268:6:Error_Handler	1
